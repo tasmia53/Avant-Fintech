@@ -100,4 +100,4 @@
 * (https://www.ftc.gov/news-events/blogs/business-blog/2019/04/avant-settlement-new-financial-platforms-established)
 * (https://www.prnewswire.com/news-releases/avant-rebrands-its-financial-technology-saas-business-unit-as-amount-300718128.html)
 * (https://www.investopedia.com/tech/worlds-top-10-fintech-companies-baba/)
-
+![](https://github.com/tasmia53/Avant-Fintech/issues/1#issue-807659610)
