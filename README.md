@@ -7,7 +7,7 @@
 
 * I have chosen [Avant, LLC](https://www.avant.com/about-us/)  which was founded in 2012 and is located in Chicago, IL (Headquarters) 
 
-* Avant has three Co-Founders includes Al Goldstein (CEO), Paul Zhang (CTO), and John Sun. Of which, John is not linked anymore but Al and Paul are still involved with the company. 
+* Avant has three Co-Founders includes Al Goldstein (CEO), Paul Zhang, and John Sun. Of which, John is not linked anymore but Al and Paul are still involved with the company. 
 
 * Once John Sun applied for a loan to found out the overly complicated process which led him to be frustrated. John thought that he wasted more time than what it should have taken him to apply for a loan. 
 
@@ -54,7 +54,7 @@
     * #### Low maximum loan – Low maximum loan amount of $35,000.
 
 
-**Product Benefits and Cons can be seen [here](https://infoforinvestors.com/loans/loan-lender-reviews/avant-loan-review/)*
+**Product Benefits and Cons can be seen [here.](https://infoforinvestors.com/loans/loan-lender-reviews/avant-loan-review/)*
 
 * Application and data tools that Avant uses are basically from companies like JavaScript, Node.js, Bootstrap, PostgreSQL, Redis, Ruby, Amazon CloudFront and numerous others. Developers use DevOps tools Docker, New Relic, Amazon EC2 Container Service and Circle CI for storage and scalability. Business Tools include G Suite, AdRoll, Olark and Help Scout to enhance employee collaboration and customer experience. For more information have a look [here.](https://stackshare.io/avant/avant)
 
