@@ -57,6 +57,8 @@
 
 * Application and data tools that Avant uses are basically from companies like JavaScript, Node.js, Bootstrap, PostgreSQL, Redis, Ruby, Amazon CloudFront and numerous others. Developers use DevOps tools Docker, New Relic, Amazon EC2 Container Service and Circle CI for storage and scalability. Business Tools include G Suite, AdRoll, Olark and Help Scout to enhance employee collaboration and customer experience. For more information have a look [here.](https://stackshare.io/avant/avant)
 
+<img width="503" alt="avant2" src="https://user-images.githubusercontent.com/68136470/107840604-4f0d5680-6e08-11eb-9ccf-eb02027d38ce.png">
+
 
 ## Landscape
 
@@ -100,4 +102,4 @@
 * (https://www.ftc.gov/news-events/blogs/business-blog/2019/04/avant-settlement-new-financial-platforms-established)
 * (https://www.prnewswire.com/news-releases/avant-rebrands-its-financial-technology-saas-business-unit-as-amount-300718128.html)
 * (https://www.investopedia.com/tech/worlds-top-10-fintech-companies-baba/)
-![](https://github.com/tasmia53/Avant-Fintech/issues/1#issue-807659610)
+
