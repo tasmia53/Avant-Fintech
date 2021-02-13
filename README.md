@@ -37,6 +37,9 @@
     * #### Job-Loss Support - Adjust payments based on customers’ employment status by adjusting. 
 
     * #### Soft Pull Inquiry – To help borrowers know about their eligibility, Avant does allow for an initial inquiry.
+    
+    <img width="362" alt="avant1" src="https://user-images.githubusercontent.com/68136470/107839777-49147700-6e02-11eb-9f17-df1e1ab19a28.png">
+
 
 * #### PRODUCT CONS - Personal Loans & Credit Cards
 
@@ -88,7 +91,7 @@
 
 ## Recommendations
 
-* Avant should have broader selection or ranges of domains not just personal loans and credit cards. Avant has a great platform to evaluate FICO scores and utilities while considering loaning. As Avant does not have other domains to work with, they are only exposed to less than 6% of the total debt market. If Avant could use their current business partnerships to give customers with mortgage facility, auto and retail lines of credit domains they could gain profits for their stakeholders by creating more daily users and increase total loan amounts. Also credit limitations of >$35,000 should be fixed, mortgage facility would require more seed funding or funding from big banks. Avant may also build to provide online access through their platform for larger billing such as mortgages, autos and retailers. They statement could be: “ Still low costs to borrow money; Dream of your house, car and retailers this time will be true!”
+* Avant should have broader selection or ranges of domains not just personal loans and credit cards. Avant has a great platform to evaluate FICO scores and utilities while considering loaning. As Avant does not have other domains to work with, they are only exposed to less than 6% of the total debt market. If Avant could use their current business partnerships to give customers with mortgage facility, auto and retail lines of credit domains they could gain profits for their stakeholders by creating more daily users and increase total loan amounts. Also credit limitations of >$35,000 should be fixed, mortgage facility would require more seed funding or funding from big banks. Avant may also build to provide online access through their platform for larger billing such as mortgages, autos and retailers. They statement could be: *“ Still low costs to borrow money; Dream of your house and car, this time will be true!”
 
 ## Appendage
 
