@@ -14,7 +14,7 @@
 * John Sun teamed up with Paul Zhangs. Later their Y Combinator project raised the initial seed funding of $1 Million. Avant raised more than $1.4 Billion in contributions by investors. Today it is estimated closer to $1.8 Billion in total funding and is currently valued at approx. $2 Billion. 
 * Avant raised more than $1.4 Billion in contributions by investors. Today it is estimated closer to $1.8 Billion in total funding and is currently valued at approx. $2 Billion. Avant has since streamlined the online borrowing process and helped over 1,500,000 people get the funding they deserve. Avant is backed by some of the most well-regarded investors in the fintech space. In recent days, Avant is funded by numerous big investors including August Capital, QED Investors, KKR, RRE Ventures, DFJ, TIGERGLOBAL, General Atlantic and Victory Park Capital. 
 
-## Business Activities:
+## Business Activities
 
 * Mission of Avant is how to lower the costs and difficulties of borrowing for middle class or lower income people. Personal loans and credit cards are the two different ways Avant is still in business. WebBank is the originator and issuer of the 2 Avant branded products and is serviced by Avant through their FinTech lending platform.
 
@@ -59,7 +59,7 @@
 * Application and data tools that Avant uses are basically from companies like JavaScript, Node.js, Bootstrap, PostgreSQL, Redis, Ruby, Amazon CloudFront and numerous others. Developers use DevOps tools Docker, New Relic, Amazon EC2 Container Service and Circle CI for storage and scalability. Business Tools include G Suite, AdRoll, Olark and Help Scout to enhance employee collaboration and customer experience. For more information have a look [here.](https://stackshare.io/avant/avant)
 
 
-## Landscape:
+## Landscape
 
 * Avant specializes in lending, billing, open banking, personal finance, deposits and online banking.
 
