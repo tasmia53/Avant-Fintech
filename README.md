@@ -1,5 +1,4 @@
-# Avant-Fintech
-# Avant Case Study
+# Avant-Fintech Case Study
 
 ## Overview and Origin
 
