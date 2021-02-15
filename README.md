@@ -38,8 +38,7 @@
 
     * #### Soft Pull Inquiry – To help borrowers know about their eligibility, Avant does allow for an initial inquiry.
     
-    <img width="362" alt="avant1" src="https://user-images.githubusercontent.com/68136470/107839777-49147700-6e02-11eb-9f17-df1e1ab19a28.png">
-
+    ![avant1.png](/images/avant1.png)  
 
 * #### PRODUCT CONS - Personal Loans & Credit Cards
 
@@ -60,7 +59,7 @@
 
 * Application and data tools that Avant uses are basically from companies like JavaScript, Node.js, Bootstrap, PostgreSQL, Redis, Ruby, Amazon CloudFront and numerous others. Developers use DevOps tools Docker, New Relic, Amazon EC2 Container Service and Circle CI for storage and scalability. Business Tools include G Suite, AdRoll, Olark and Help Scout to enhance employee collaboration and customer experience. For more information have a look [here.](https://stackshare.io/avant/avant)
 
-<img width="503" alt="avant2" src="https://user-images.githubusercontent.com/68136470/107840604-4f0d5680-6e08-11eb-9ccf-eb02027d38ce.png">
+![avant2.png](/images/avant2.png)  
 
 
 ## Landscape
