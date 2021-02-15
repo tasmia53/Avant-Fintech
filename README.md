@@ -26,7 +26,7 @@
 
     * #### Easy to Use - Online application plus web-based platform helps with a quick and handy application process. 
 
-    * ##### Late Fee Forgiveness - Refund late fees if customer is making 3 consecutive on-time payments. 
+    * #### Late Fee Forgiveness - Refund late fees if customer is making 3 consecutive on-time payments. 
 
     * #### Prime Credit Only – Primary target of borrowers who do not have perfect credit scores to help them with borrowing.
 
